@@ -187,4 +187,4 @@ Claude Managed Agents 的价值，不在“再多一个 Agent 产品”。
 
 - Anthropic 工程文章：<https://www.anthropic.com/engineering/managed-agents>
 - Claude 平台 Quickstart：<https://platform.claude.com/workspaces/default/agent-quickstart>
-- 中文链接（当前需验证后访问）：<https://mp.weixin.qq.com/s/ufc2f1o8KWHUnYW45GhCoA>
+- 中文链接：<https://mp.weixin.qq.com/s/ufc2f1o8KWHUnYW45GhCoA>
