@@ -15,6 +15,9 @@
 - [`Managed-Agents.md`](./Managed-Agents.md)  
   Anthropic `Claude Managed Agents` 解读：平台价值、海内外对比、中外差异与上手体验。
 
+- [`Mastra.md`](./Mastra.md)  
+  Mastra 框架入门：是什么、能做什么、使用局限，以及与 Claude Managed Agents 的对比。
+
 ## 如何阅读
 
 - 想快速抓重点：先看每篇文章的“结论”与“最后一句”
